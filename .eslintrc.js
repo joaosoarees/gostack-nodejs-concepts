@@ -16,5 +16,6 @@ module.exports = {
     'no-console': 'off',
     camelcase: 'off',
     'no-unused-vars': ['error', { argsIgnorePattern: 'next' }],
+    'no-shadow': 'off',
   },
 };
